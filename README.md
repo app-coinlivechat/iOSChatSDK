@@ -5,8 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/CoinliveChatSDK.svg?style=flat)](https://cocoapods.org/pods/CoinliveChatSDK)
 [![Platform](https://img.shields.io/cocoapods/p/CoinliveChatSDK.svg?style=flat)](https://cocoapods.org/pods/CoinliveChatSDK)
 
-## Requirements
-
+<!-- ## Requirements -->
 ## Installation
 
 CoinliveChatSDK is available through [CocoaPods](https://cocoapods.org). To install
