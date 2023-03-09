@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CoinliveChatSDK'
-  s.version          = '0.0.7'
+  s.version          = '0.0.9'
   s.summary          = 'Coinlive chat solution sdk'
   s.swift_version    = '5.0'
   s.description      = 'If you consider using sdk or uikit you must receive api key from Coinlive.'
