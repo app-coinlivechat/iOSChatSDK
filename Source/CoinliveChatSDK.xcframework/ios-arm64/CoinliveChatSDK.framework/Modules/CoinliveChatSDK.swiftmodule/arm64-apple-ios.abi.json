@@ -9115,6 +9115,13 @@
       },
       {
         "kind": "Import",
+        "name": "FirebaseCore",
+        "printedName": "FirebaseCore",
+        "declKind": "Import",
+        "moduleName": "CoinliveChatSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Logging",
         "printedName": "Logging",
         "declKind": "Import",
@@ -9158,6 +9165,13 @@
         "kind": "Import",
         "name": "FirebaseAuth",
         "printedName": "FirebaseAuth",
+        "declKind": "Import",
+        "moduleName": "CoinliveChatSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Logging",
+        "printedName": "Logging",
         "declKind": "Import",
         "moduleName": "CoinliveChatSDK"
       },
@@ -10433,6 +10447,13 @@
         "kind": "Import",
         "name": "FirebaseCore",
         "printedName": "FirebaseCore",
+        "declKind": "Import",
+        "moduleName": "CoinliveChatSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Logging",
+        "printedName": "Logging",
         "declKind": "Import",
         "moduleName": "CoinliveChatSDK"
       },
@@ -17061,7 +17082,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(isDebug:isShowHttpLog:locale:)",
+            "printedName": "init(isDebug:isShowHttpLog:locale:alreadyUseFirebaseApp:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -17087,11 +17108,18 @@
                 "printedName": "Foundation.Locale",
                 "hasDefaultArg": true,
                 "usr": "s:10Foundation6LocaleV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15CoinliveChatSDK0A0C7isDebug0D11ShowHttpLog6localeACSb_Sb10Foundation6LocaleVtcfc",
-            "mangledName": "$s15CoinliveChatSDK0A0C7isDebug0D11ShowHttpLog6localeACSb_Sb10Foundation6LocaleVtcfc",
+            "usr": "s:15CoinliveChatSDK0A0C7isDebug0D11ShowHttpLog6locale21alreadyUseFirebaseAppACSb_Sb10Foundation6LocaleVSbtcfc",
+            "mangledName": "$s15CoinliveChatSDK0A0C7isDebug0D11ShowHttpLog6locale21alreadyUseFirebaseAppACSb_Sb10Foundation6LocaleVSbtcfc",
             "moduleName": "CoinliveChatSDK",
             "declAttributes": [
               "AccessControl",
@@ -20014,14 +20042,14 @@
     {
       "filePath": "\/Users\/parkjonghyun\/Desktop\/Workspace\/Coinlive\/coinlive_chat_iOS\/CoinliveChatSDK\/Source\/Firebase\/Firestore\/FirestoreWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 2257,
+      "offset": 2499,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/parkjonghyun\/Desktop\/Workspace\/Coinlive\/coinlive_chat_iOS\/CoinliveChatSDK\/Source\/Firebase\/Firestore\/FirestoreWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 2277,
+      "offset": 2519,
       "length": 2,
       "value": "50"
     },
@@ -21469,8 +21497,22 @@
     },
     {
       "filePath": "\/Users\/parkjonghyun\/Desktop\/Workspace\/Coinlive\/coinlive_chat_iOS\/CoinliveChatSDK\/Source\/Firebase\/Base\/Coinlive.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 18,
+      "value": "\"__FIRAPP_DEFAULT\""
+    },
+    {
+      "filePath": "\/Users\/parkjonghyun\/Desktop\/Workspace\/Coinlive\/coinlive_chat_iOS\/CoinliveChatSDK\/Source\/Firebase\/Base\/Coinlive.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1026,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/parkjonghyun\/Desktop\/Workspace\/Coinlive\/coinlive_chat_iOS\/CoinliveChatSDK\/Source\/Firebase\/Base\/Coinlive.swift",
       "kind": "Array",
-      "offset": 1115,
+      "offset": 2299,
       "length": 2,
       "value": "[]"
     },

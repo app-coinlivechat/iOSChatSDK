@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GoogleService-Info.plist</key>
-		<data>
-		8ERoLihZCe9C+fqnnrRjNBvFe1E=
-		</data>
 		<key>Headers/CoinliveChatSDK-Swift.h</key>
 		<data>
 		UYa/ERLL3JQkbgj5/ESYN28CL6c=
@@ -22,43 +18,43 @@
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KBaVmnpBewNoDrM/f3urxXofEjU=
+		6c/6V3Uez7+P1oGuOEAlj2q/2WE=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5bhmVvVOyHLnIlKzSt/f3tXMU2U=
+		Bu1Gb0t8v7EpEVeZlMB19ErIz98=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		heF7kj8imnU0i3vijWNcfH/y5O0=
+		P0KeKYesrr2AJMOyB+ZWu/KKOOE=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5bhmVvVOyHLnIlKzSt/f3tXMU2U=
+		Bu1Gb0t8v7EpEVeZlMB19ErIz98=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Wovdjudc3uSd0cc8NnyRGUyYkKE=
+		4iK7ALEpoc+OWQuhCffEM91Yxnk=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KBaVmnpBewNoDrM/f3urxXofEjU=
+		6c/6V3Uez7+P1oGuOEAlj2q/2WE=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4n+1c1vv6SSqriuKh2KrMplojng=
+		W3iufRz1fhQSk3KBA494698DGsg=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		loBLYIO+Ox/6JFk2eO32Gg7lgYI=
+		oD61EE9FUOe1QHzGBlVrrgzb7V8=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4n+1c1vv6SSqriuKh2KrMplojng=
+		W3iufRz1fhQSk3KBA494698DGsg=
 		</data>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kmz44KSZwXim9KszCvglaRQIWEo=
+		gOqhkkLhvauhWRNMSdHtxdDXrDo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,26 +64,6 @@
 		<data>
 		7iEgCfCUE7ix/IDAOm1RpCcowS0=
 		</data>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		B2DfcSxybS6txhk5RfFzzTcMLOo=
-		</data>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		qaKjBmTC3g3xl3utiFRIQeynm84=
-		</data>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		lD20QLF41Z6JAfWiAzKftf/Hioo=
-		</data>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
 		<key>gRPCCertificates-Cpp.bundle/roots.pem</key>
 		<data>
 		fKPpDnXJArmBT4pB8zmpeWVIzCc=
@@ -95,13 +71,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GoogleService-Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g7l0h9I4NNgRuHInXynj7SWiFRc+i0wPNB3FvGKJ9Uw=
-			</data>
-		</dict>
 		<key>Headers/CoinliveChatSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -120,70 +89,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M+6BDVthcsNqj5ShRR5w20FjgbUzRIAHMPNblzMmT/k=
+			MfNdLb1bRuMwz31HDSP7K02SITnPBbqH2pXbMP7SCkc=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YaEH650w3Sav9ldkLH57mUTCNAhli4KsY8hqVfDx1d4=
+			CMizAUxqMrYiZoNZ4+nZtnTHzVZLGcNX0t7Www56CgI=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrgAMnpvPQnJFS7Q4OKlzX/yQX68yie+cWPNXSIv6Fc=
+			gHmjKNJm9uSt3GKGDH48R2TuGuciADP7Fd5g5wYAYBw=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YaEH650w3Sav9ldkLH57mUTCNAhli4KsY8hqVfDx1d4=
+			CMizAUxqMrYiZoNZ4+nZtnTHzVZLGcNX0t7Www56CgI=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qCQFSOEVRz0yANZghFlMoi0D0ClU/gAT50Usp3Xz4vE=
+			o1ZmvE6P2iLuN/8NgMUp9smc+M3quaH4Vu8Pt6spJLM=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M+6BDVthcsNqj5ShRR5w20FjgbUzRIAHMPNblzMmT/k=
+			MfNdLb1bRuMwz31HDSP7K02SITnPBbqH2pXbMP7SCkc=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a6o5afnCCKoaGpcczWsrj8du9ZZkVOe6PNSpClCAlXM=
+			+1EvzuzSvQL041UdA+9i1wjd71xtPVOtkGQnNINABQ0=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aPz6saFAYlGKiFvJFWlQvDC9hj+qhFAk046K/rGpOhc=
+			syFtLrTqDQV714KI9wfMUhv4N2P00H/6jTMflkZcjAw=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a6o5afnCCKoaGpcczWsrj8du9ZZkVOe6PNSpClCAlXM=
+			+1EvzuzSvQL041UdA+9i1wjd71xtPVOtkGQnNINABQ0=
 			</data>
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7om5Q8fD0z8j/rAnmtZuiAf5yKxk8GDHYxrlRw+v7zE=
+			XyoXpehhUW0hHRyzbg7IITF8OkFiqh9uohWWYNDsYKQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -198,41 +167,6 @@
 			<key>hash2</key>
 			<data>
 			n1Ml1ejWiyPHoGxK4U2BplX1bFqI20p0wAr8X0DkRL0=
-			</data>
-		</dict>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oPZ2dK1BK5kxnXY01stJ+t2NY9DsnOBsipJivQPzuEI=
-			</data>
-		</dict>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MHK9RindX7bkRoVsx99BxOi1pWuY5Ifmmh0mmzGz8qA=
-			</data>
-		</dict>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rkQT8y7IjYx1BZmWKGvWqc/3aSQ5ZMXvtyNQv/YwsRw=
-			</data>
-		</dict>
-		<key>gRPCCertificates-Cpp.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>gRPCCertificates-Cpp.bundle/roots.pem</key>

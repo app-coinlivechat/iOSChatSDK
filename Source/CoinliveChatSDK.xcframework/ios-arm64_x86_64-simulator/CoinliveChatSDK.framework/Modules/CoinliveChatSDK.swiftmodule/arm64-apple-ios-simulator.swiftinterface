@@ -386,7 +386,7 @@ public struct BlockMember : Swift.Codable {
   public init(from decoder: Swift.Decoder) throws
 }
 public class Coinlive {
-  public init(isDebug: Swift.Bool, isShowHttpLog: Swift.Bool, locale: Foundation.Locale = .current)
+  public init(isDebug: Swift.Bool, isShowHttpLog: Swift.Bool, locale: Foundation.Locale = .current, alreadyUseFirebaseApp: Swift.Bool = false)
   @objc deinit
 }
 public enum ALARM_TYPE : Swift.Codable {
