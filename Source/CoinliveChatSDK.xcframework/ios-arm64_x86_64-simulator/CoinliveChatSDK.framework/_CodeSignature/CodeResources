@@ -73,6 +73,10 @@
 	<dict>
 		<key>Headers/CoinliveChatSDK-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			UYa/ERLL3JQkbgj5/ESYN28CL6c=
+			</data>
 			<key>hash2</key>
 			<data>
 			//THFnQzXj16b/jHG1Nxn70u1tg+MW5xlgNPtUoGBdw=
@@ -80,6 +84,10 @@
 		</dict>
 		<key>Headers/CoinliveChatSDK.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			3X+eS3LKcb7+PrRcvrQAVBzPe+g=
+			</data>
 			<key>hash2</key>
 			<data>
 			TjRQTRzpgC1pcKNXHfePbPOHaS+ahbGh1D18N3UhOA0=
@@ -87,6 +95,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6c/6V3Uez7+P1oGuOEAlj2q/2WE=
+			</data>
 			<key>hash2</key>
 			<data>
 			MfNdLb1bRuMwz31HDSP7K02SITnPBbqH2pXbMP7SCkc=
@@ -94,6 +106,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Bu1Gb0t8v7EpEVeZlMB19ErIz98=
+			</data>
 			<key>hash2</key>
 			<data>
 			CMizAUxqMrYiZoNZ4+nZtnTHzVZLGcNX0t7Www56CgI=
@@ -101,6 +117,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			P0KeKYesrr2AJMOyB+ZWu/KKOOE=
+			</data>
 			<key>hash2</key>
 			<data>
 			gHmjKNJm9uSt3GKGDH48R2TuGuciADP7Fd5g5wYAYBw=
@@ -108,6 +128,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Bu1Gb0t8v7EpEVeZlMB19ErIz98=
+			</data>
 			<key>hash2</key>
 			<data>
 			CMizAUxqMrYiZoNZ4+nZtnTHzVZLGcNX0t7Www56CgI=
@@ -115,6 +139,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4iK7ALEpoc+OWQuhCffEM91Yxnk=
+			</data>
 			<key>hash2</key>
 			<data>
 			o1ZmvE6P2iLuN/8NgMUp9smc+M3quaH4Vu8Pt6spJLM=
@@ -122,6 +150,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6c/6V3Uez7+P1oGuOEAlj2q/2WE=
+			</data>
 			<key>hash2</key>
 			<data>
 			MfNdLb1bRuMwz31HDSP7K02SITnPBbqH2pXbMP7SCkc=
@@ -129,6 +161,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			W3iufRz1fhQSk3KBA494698DGsg=
+			</data>
 			<key>hash2</key>
 			<data>
 			+1EvzuzSvQL041UdA+9i1wjd71xtPVOtkGQnNINABQ0=
@@ -136,6 +172,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			oD61EE9FUOe1QHzGBlVrrgzb7V8=
+			</data>
 			<key>hash2</key>
 			<data>
 			syFtLrTqDQV714KI9wfMUhv4N2P00H/6jTMflkZcjAw=
@@ -143,6 +183,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			W3iufRz1fhQSk3KBA494698DGsg=
+			</data>
 			<key>hash2</key>
 			<data>
 			+1EvzuzSvQL041UdA+9i1wjd71xtPVOtkGQnNINABQ0=
@@ -150,6 +194,10 @@
 		</dict>
 		<key>Modules/CoinliveChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			gOqhkkLhvauhWRNMSdHtxdDXrDo=
+			</data>
 			<key>hash2</key>
 			<data>
 			XyoXpehhUW0hHRyzbg7IITF8OkFiqh9uohWWYNDsYKQ=
@@ -157,6 +205,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bTIu/JqMn2puIr6PUTeKSgR5HCI=
+			</data>
 			<key>hash2</key>
 			<data>
 			JoLubfaLJqFTpbeSZfBJD4JVImTfbs4soxP8uf2+HN4=
@@ -164,6 +216,10 @@
 		</dict>
 		<key>gRPCCertificates-Cpp.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			7iEgCfCUE7ix/IDAOm1RpCcowS0=
+			</data>
 			<key>hash2</key>
 			<data>
 			n1Ml1ejWiyPHoGxK4U2BplX1bFqI20p0wAr8X0DkRL0=
@@ -171,6 +227,10 @@
 		</dict>
 		<key>gRPCCertificates-Cpp.bundle/roots.pem</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fKPpDnXJArmBT4pB8zmpeWVIzCc=
+			</data>
 			<key>hash2</key>
 			<data>
 			lhQzRMSuEJWIElssQdXa9lSl+vxuI/rDf3uj0p2n53Y=
