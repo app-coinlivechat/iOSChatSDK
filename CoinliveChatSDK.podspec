@@ -13,4 +13,13 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
   s.ios.vendored_frameworks = 'Source/CoinliveChatSDK.xcframework'
 
+  s.ios.dependency 'GoogleUtilities'
+  s.ios.dependency 'FirebaseAuth'
+  s.ios.dependency 'FirebaseCore'
+  s.ios.dependency 'FirebaseFirestore'
+  s.ios.dependency 'FirebaseDatabase'
+  s.ios.dependency 'FirebaseDynamicLinks'
+  s.ios.dependency 'FirebaseFirestoreSwift'
+  s.ios.dependency 'Logging'
+  s.ios.dependency 'Moya', '~> 15.0'
 end
